@@ -7,8 +7,5 @@ fine
 I have added some more lines related to the onn27/06
 
 and trying to update the same
-trying to push all the branches to the server 
-
-but it is not working
 
 
